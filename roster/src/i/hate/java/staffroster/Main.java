@@ -9,7 +9,7 @@ public class Main {
 	private static StaffRoster roster = new StaffRoster();
 	
 	public static void main(String[] args) {
-        // https://www.youtube.com/watch?v=-ZI5eiggWbQ
+        	// https://www.youtube.com/watch?v=-ZI5eiggWbQ
 		System.out.println("Available commands:");
 		System.out.println("  * hire             adds a new employee");
 		System.out.println("  * work             changes the amount of specific work type performed per month");
